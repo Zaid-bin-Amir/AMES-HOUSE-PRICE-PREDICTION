@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task 5 - Feature Engineering & Tuned Ensembles (Ames House Prices)
 
 Engineer new features, then compare a tuned Random Forest and a tuned XGBoost
@@ -55,3 +56,6 @@ For the real task, install xgboost (it is in `requirements.txt`) and run again.
   different model, quote its number next to this one.
 - In the notebook, write your own 2-4 sentence verdict in the last cell.
   `results/report.md` already contains a verdict written from the numbers.
+=======
+# AMES-HOUSE-PRICE-PREDICTION
+>>>>>>> a45ed1a9d4f144003c124cbf8a314794dcd78f9c
