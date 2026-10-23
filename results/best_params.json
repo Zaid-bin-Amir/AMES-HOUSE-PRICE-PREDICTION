@@ -1,0 +1,16 @@
+{
+  "Random Forest (tuned) + features": {
+    "max_depth": 15,
+    "max_features": 0.5,
+    "min_samples_leaf": 1,
+    "min_samples_split": 4,
+    "n_estimators": 300
+  },
+  "GradientBoosting (tuned) [XGBoost NOT installed - stand-in]": {
+    "learning_rate": 0.10196967939171485,
+    "max_depth": 3,
+    "min_samples_leaf": 2,
+    "n_estimators": 645,
+    "subsample": 0.9706635463175177
+  }
+}
